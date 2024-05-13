@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\pagination\\pagedlistqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\pagination\\pagedlistqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\moviesexamproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7B1E8A-C1F6-480C-A8F7-3F466B9852CC}|MoviesExamProject\\MoviesWebApi.csproj|solutionrelative:moviesexamproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C97AA48-477E-40B1-B0DC-714DCF834AF5}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C97AA48-477E-40B1-B0DC-714DCF834AF5}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356E1E7D-8118-4666-9D14-F76FA5587AB0}|Core\\Core.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356E1E7D-8118-4666-9D14-F76FA5587AB0}|Core\\Core.csproj|solutionrelative:core\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356E1E7D-8118-4666-9D14-F76FA5587AB0}|Core\\Core.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\core\\entities\\productioncountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356E1E7D-8118-4666-9D14-F76FA5587AB0}|Core\\Core.csproj|solutionrelative:core\\entities\\productioncountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356E1E7D-8118-4666-9D14-F76FA5587AB0}|Core\\Core.csproj|c:\\users\\user\\desktop\\projects\\moviesexamproject\\core\\entities\\movielanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356E1E7D-8118-4666-9D14-F76FA5587AB0}|Core\\Core.csproj|solutionrelative:core\\entities\\movielanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagedListQueryableExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Pagination\\PagedListQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Pagination\\PagedListQueryableExtensions.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Pagination\\PagedListQueryableExtensions.cs",
+              "RelativeToolTip": "MoviesExamProject\\Pagination\\PagedListQueryableExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:03:38.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Pagination\\PagedList.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Pagination\\PagedList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Pagination\\PagedList.cs",
+              "RelativeToolTip": "MoviesExamProject\\Pagination\\PagedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:01:33.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MoviesExamProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:17:38.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Program.cs",
+              "RelativeToolTip": "MoviesExamProject\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:34:12.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "MoviesExamProject\\Interfaces\\IMovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:33:35.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Services\\MovieService.cs",
+              "RelativeToolTip": "MoviesExamProject\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:33:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesExamProject\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\MoviesExamProject\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesExamProject\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:32:55.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductionCountry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Core\\Entities\\ProductionCountry.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ProductionCountry.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Core\\Entities\\ProductionCountry.cs",
+              "RelativeToolTip": "Core\\Entities\\ProductionCountry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:25:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Core\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Core\\Entities\\Person.cs",
+              "RelativeToolTip": "Core\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:25:13.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Core\\Entities\\MovieLanguage.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\MovieLanguage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Core\\Entities\\MovieLanguage.cs",
+              "RelativeToolTip": "Core\\Entities\\MovieLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:11:56.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Projects\\MoviesExamProject\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAN8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:12:06.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
